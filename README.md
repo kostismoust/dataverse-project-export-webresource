@@ -41,4 +41,6 @@ The sample uses standard Project Operations logical names such as `msdyn_project
 
 ## License
 
-No license is included. Add one only after confirming that you or your employer own the code and approve publication.
+This project is licensed under the [MIT License](LICENSE).
+
+This is a sanitized sample provided "as is", without warranty of any kind. Test it in a sandbox environment before using it in production.
